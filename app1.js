@@ -1,0 +1,1 @@
+document.write("Legal: myVar, Hello_World, java1, .document Illegal:, myvar, Helloworld, 2435")
